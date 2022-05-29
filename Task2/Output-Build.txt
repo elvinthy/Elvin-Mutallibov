@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: Task2, Configuration: Debug Any CPU ------
+1>Task2 -> C:\Users\Lenovo\Desktop\Elvin-Mutallibov\Task2\Task2\bin\Debug\net5.0\Task2.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
